@@ -1,5 +1,5 @@
-import Resolver from 'ember/resolver';
 import config from '../../config/environment';
+import Resolver from 'ember-resolver';
 
 var resolver = Resolver.create();
 
