@@ -47,9 +47,5 @@ module.exports = function(defaults) {
 
   importFromBower('bootstrap-sass/assets/javascripts/bootstrap.js');
 
-  if (!isProduction) {
-    importFromBower('es5-shim/es5-shim.js', { type: 'test' });
-  }
-
   return app.toTree();
 };
