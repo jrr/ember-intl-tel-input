@@ -1,7 +1,7 @@
 {
   "name": "ember-intl-tel-input",
   "dependencies": {
-    "intl-tel-input": "~6.4.0",
+    "intl-tel-input": "~6.4.4",
     "bootstrap-sass": "~3.3.5",
     "prism": "~1.0.0",
     "sinon": "~1.17.2",
